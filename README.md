@@ -8,11 +8,11 @@ A curated list of awesome Model-based Reinforcement Learning resources. Inspired
 
 Model-based Reinforcement Learning is gaining popularity in Robotics community. These are some of the awesome resources! 
 
-## Contributing
 <p align="center">
-  <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" width="500">
+  <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" width="300">
 </p>
 
+## Contributing
 Please help contribute this list by contacting [me](https://www.hejiazhang.org) or add [pull request](https://github.com/hjzh4/awesome-model-based-reinforcement-learning/pulls)
 
 Markdown format:
