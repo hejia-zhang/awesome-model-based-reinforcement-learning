@@ -10,7 +10,7 @@ Model-based Reinforcement Learning is gaining popularity in Robotics community. 
 
 ## Contributing
 <p align="center">
-  <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" alt="We Need You!">
+  <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" width="500">
 </p>
 
 Please help contribute this list by contacting [me](https://www.hejiazhang.org) or add [pull request](https://github.com/hjzh4/awesome-model-based-reinforcement-learning/pulls)
@@ -23,13 +23,8 @@ Markdown format:
 
 ## Table of Contents
 - [Survey](#survey)
-  - [Image Representation Learning](#image-representation-learning)
-  - [Video Representation Learning](#video-representation-learning)
-  - [Geometry](#geometry)
-- [Machine Learning](#machine-learning)
-  - [Reinforcement Learning](#reinforcement-learning)
 - [Robotics](#robotics)  
-- [Talks](#talks)
+- [Tutorials](#tutorials)
 
 ## Survey
 #### 2017
