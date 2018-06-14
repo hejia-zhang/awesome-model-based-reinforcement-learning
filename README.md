@@ -13,7 +13,7 @@ Model-based Reinforcement Learning is gaining popularity in Robotics community. 
 </p>
 
 ## Contributing
-Please help contribute this list by contacting [me](https://www.hejiazhang.org) or add [pull request](https://github.com/hjzh4/awesome-model-based-reinforcement-learning/pulls)
+Please help contribute this list by adding [pull request](https://github.com/hjzh4/awesome-model-based-reinforcement-learning/pulls)
 
 Markdown format:
 ```markdown
