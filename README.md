@@ -32,10 +32,17 @@ Markdown format:
   - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
 
 ## Robotics
-Coming soon...
-
+### Local model
+- Learning Neural Network Policies with Guided Policy Search under Unknown Dynamics. [[pdf]](https://people.eecs.berkeley.edu/~svlevine/papers/mfcgps.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
+    - Sergey Levine and Pieter Abbeel. *NIPS 2014*
+### Learn in latent space
+#### Foward Dynamics Model
+- Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images. [[pdf]](https://arxiv.org/pdf/1506.07365.pdf) [[code]](https://github.com/ericjang/e2c)
+    - Manuel Watter, Jost Tobias Springenberg, Martin Riedmiller, Joschka Boedecker. *ICRA 2017*
+- Deep Spatial Autoencoders for Visuomotor Learning. [[pdf]](https://arxiv.org/pdf/1509.06113.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
+    - Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeel. *ICRA 2016*
 ## Tutorials
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 
 ## License
-To the extent possible under law, [Hejia Zhang](https://www.hejiazhang.org/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
