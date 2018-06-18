@@ -29,9 +29,15 @@ Markdown format:
 ## Survey
 #### 2017
 - Survey of Model-Based Reinforcement Learning: Applications on Robotics. [[pdf]](https://link.springer.com/article/10.1007/s10846-017-0468-y)
-  - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
+    - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
 
 ## Robotics
+### Hybrid model-based and model-free algorithm
+- Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
+    - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing, Sergey Levine.
+### Optimal Control
+- Local Gaussian Process Regression for Real-time Model-based Robot Control. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4650850)
+    - Duy Nguyen-Tuong and Jan Peters. *IROS 2008*
 ### Local model
 - Learning Neural Network Policies with Guided Policy Search under Unknown Dynamics. [[pdf]](https://people.eecs.berkeley.edu/~svlevine/papers/mfcgps.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
     - Sergey Levine and Pieter Abbeel. *NIPS 2014*
