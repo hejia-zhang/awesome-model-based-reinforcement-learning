@@ -30,7 +30,9 @@ Markdown format:
 #### 2017
 - Survey of Model-Based Reinforcement Learning: Applications on Robotics. [[pdf]](https://link.springer.com/article/10.1007/s10846-017-0468-y)
     - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
-
+## CV/CG
+- Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf) [[code]](https://github.com/pathak22/noreward-rl)
+    - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. *ICML 2017*
 ## Robotics
 ### Hybrid model-based and model-free algorithm
 - Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
