@@ -22,10 +22,14 @@ Markdown format:
 ```
 
 ## Table of Contents
+- [Thesis] (#thesis)
 - [Survey](#survey)
 - [Robotics](#robotics)  
 - [Tutorials](#tutorials)
 
+## Thesis
+- Efficient Reinforcement Learning using Gaussian Processes. [[pdf]](https://pdfs.semanticscholar.org/c9f2/1b84149991f4d547b3f0f625f710750ad8d9.pdf)
+    - Marc Peter Deisenroth.
 ## Survey
 #### 2017
 - Survey of Model-Based Reinforcement Learning: Applications on Robotics. [[pdf]](https://link.springer.com/article/10.1007/s10846-017-0468-y)
@@ -49,6 +53,17 @@ Markdown format:
     - Manuel Watter, Jost Tobias Springenberg, Martin Riedmiller, Joschka Boedecker. *ICRA 2017*
 - Deep Spatial Autoencoders for Visuomotor Learning. [[pdf]](https://arxiv.org/pdf/1509.06113.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
     - Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeel. *ICRA 2016*
+### Gaussian Process
+- Data-Efficient Reinforcement Learning in Continuous-State POMDPs. [[pdf]](https://papers.nips.cc/paper/6799-data-efficient-reinforcement-learning-in-continuous-state-action-gaussian-pomdps.pdf)
+    - Rowan McAllister, Carl Rasmussen. *NIPS 2017*
+- Improving PILCO with Bayesian Neural Network Dynamics Models. [[pdf]](http://mlg.eng.cam.ac.uk/yarin/PDFs/DeepPILCO.pdf)
+    - Yarin Gal and Rowan Thomas McAllister and Carl Edward Rasmussen. *Data-Efficient Machine Learning workshop, ICML, 2016*
+- PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf)
+    - Marc Peter Deisenroth, Carl Rasmussen. *ICML 2011*
+- Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning. [[pdf]](http://www.roboticsproceedings.org/rss07/p08.pdf)
+    - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
+- Learning Dynamics Across Similar Spatiotemporally-Evolving Physical Systems. [[pdf]](http://proceedings.mlr.press/v78/whitman17a/whitman17a.pdf)
+    - Joshua Whitman, Girish Chowdhary. *CoRL 2017*
 ## Tutorials
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 
