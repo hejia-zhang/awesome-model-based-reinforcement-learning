@@ -22,9 +22,10 @@ Markdown format:
 ```
 
 ## Table of Contents
-- [Thesis] (#thesis)
+- [Thesis](#thesis)
 - [Survey](#survey)
-- [Robotics](#robotics)  
+- [Conference Papers](#conference_papers)
+- [Journal Papers](#journal_papers)  
 - [Tutorials](#tutorials)
 
 ## Thesis
@@ -37,7 +38,7 @@ Markdown format:
 ## CV/CG
 - Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf) [[code]](https://github.com/pathak22/noreward-rl)
     - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. *ICML 2017*
-## Robotics
+## Conference Papers
 ### Hybrid model-based and model-free algorithm
 - Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
     - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing, Sergey Levine.
@@ -64,6 +65,7 @@ Markdown format:
     - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
 - Learning Dynamics Across Similar Spatiotemporally-Evolving Physical Systems. [[pdf]](http://proceedings.mlr.press/v78/whitman17a/whitman17a.pdf)
     - Joshua Whitman, Girish Chowdhary. *CoRL 2017*
+## Journal Papers
 ## Tutorials
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 
