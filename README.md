@@ -27,6 +27,7 @@ Markdown format:
 - [Conference Papers](#conference_papers)
 - [Journal Papers](#journal_papers)  
 - [Tutorials](#tutorials)
+- [Tools](#tools)
 
 ## Thesis
 - Efficient Reinforcement Learning using Gaussian Processes. [[pdf]](https://pdfs.semanticscholar.org/c9f2/1b84149991f4d547b3f0f625f710750ad8d9.pdf)
@@ -72,7 +73,7 @@ Markdown format:
     - Rowan McAllister, Carl Rasmussen. *NIPS 2017*
 - Improving PILCO with Bayesian Neural Network Dynamics Models. [[pdf]](http://mlg.eng.cam.ac.uk/yarin/PDFs/DeepPILCO.pdf)
     - Yarin Gal and Rowan Thomas McAllister and Carl Edward Rasmussen. *Data-Efficient Machine Learning workshop, ICML, 2016*
-- PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf)
+- PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf) [[code]](http://mlg.eng.cam.ac.uk/pilco/) [[unofficial code]](https://github.com/nrontsis/PILCO)
     - Marc Peter Deisenroth, Carl Rasmussen. *ICML 2011*
 - Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning. [[pdf]](http://www.roboticsproceedings.org/rss07/p08.pdf)
     - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
@@ -82,5 +83,8 @@ Markdown format:
 ## Tutorials
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 - Highlight Talk: Gaussian Processes for Data Efficient Learning. Marc Diesenroth [[link]](https://www.youtube.com/watch?v=dWsjjszwfi0)
+## Tools
+- [GPFlow](https://github.com/GPflow/GPflow)
+- [GPy](https://github.com/SheffieldML/GPy)
 ## License
 To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
