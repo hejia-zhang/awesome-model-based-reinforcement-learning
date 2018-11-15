@@ -81,6 +81,6 @@ Markdown format:
 ## Journal Papers
 ## Tutorials
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
-
+- Highlight Talk: Gaussian Processes for Data Efficient Learning. Marc Diesenroth [[link]](https://www.youtube.com/watch?v=dWsjjszwfi0)
 ## License
 To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
