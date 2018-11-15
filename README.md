@@ -39,9 +39,22 @@ Markdown format:
 - Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf) [[code]](https://github.com/pathak22/noreward-rl)
     - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell. *ICML 2017*
 ## Conference Papers
+### Physics Model
+- Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning. [[pdf]](http://www.roboticsproceedings.org/rss14/p44.pdf) [[code]](https://github.com/MarcToussaint/18-RSS-PhysicalManipulation)
+    - Marc Toussaint, Kelsey R. Allen, Kevin A. Smith, Joshua B. Tenenbaum. *RSS 2018*
+- A convex, smooth and invertible contact model for trajectory optimization. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath533/ContactConvex.pdf)
+    - Emanuel Todorov. *ICRA 2011*
+- A Modular Differentiable Rigid Body Physics Engine. [[pdf]](https://drive.google.com/file/d/1K8t4gQExFXbuG4F9Zd2_30Y5wtpdEST7/view) [[code]](https://github.com/locuslab/lcp-physics)
+    - Filipe de Avila Belbute-Peres, J. Zico Kolter. *Deep Reinforcement Learning Symposium, NIPS 2017*
+- A DIFFERENTIABLE PHYSICS ENGINE FOR DEEP LEARNING IN ROBOTICS. [[pdf]](https://openreview.net/pdf?id=HkrB8XXte)
+    - Jonas Degrave, Michiel Hermans, Joni Dambre, Francis wyffels. *ICLR 2017*
+- Discovery of Complex Behaviors through Contact-Invariant Optimization. [[pdf]](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf)
+    - Igor Mordatch, Emanuel Tordorov, Zoran Popovic. *TOG'12*
 ### Hybrid model-based and model-free algorithm
 - Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
     - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing, Sergey Levine.
+- Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning. [[pdf]](https://arxiv.org/abs/1703.03078)
+    - Yevgen Chebotar, Karol Hausman, Marvin Zhang, Gaurav Sukhatme, Stefan Schaal, Sergey Levine. *ICML 2017*
 ### Optimal Control
 - Local Gaussian Process Regression for Real-time Model-based Robot Control. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4650850)
     - Duy Nguyen-Tuong and Jan Peters. *IROS 2008*
